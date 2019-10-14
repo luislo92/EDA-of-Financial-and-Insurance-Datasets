@@ -20,7 +20,7 @@ EDA 4: Analyzing a dataset of HealthCare aggregated data to create new variables
 
 ### Supervised
 
-EDA 2: Create a gains table with a logistic regression model to understand whats the lift and the impact of the model.
+EDA 2: Create a gains table with a logistic regression model to understand what is the lift and the impact of the model.
 
 ### Unsupervised
 
