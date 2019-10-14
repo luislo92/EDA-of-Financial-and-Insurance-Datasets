@@ -15,7 +15,7 @@ EDA 1: Analyzing the stock price of the Goldman Sachs stock from 2009 to 2012 to
 
 ### Feature Engineering
 
-EDA 3: Analyzing a dataset of credit card transactions to create new variables that help us identify the anomalies in the set.
+EDA 3: Analyzing a dataset of credit card transactions to create new variables that help us identify the anomalies in the set.         
 EDA 4: Analyzing a dataset of HealthCare aggregated data to create new variables that help us identify anomalies in the set.
 
 ### Supervised
