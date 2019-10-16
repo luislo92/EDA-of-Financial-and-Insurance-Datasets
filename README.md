@@ -26,3 +26,8 @@ EDA 2: Create a gains table with a logistic regression model to understand what 
 
 EDA 5: Using the modified HealthCare dataset with all the new variables, create clusters of observations and 
 identify the clusters that show the most obvious anomalies.
+
+### Extras
+
+Word2Vec: Using word2vec grasp similairyt between a merchants to narrow down the categories.
+R&D Attrition: Side project done to analyze attrition in the R&D department of a mock dataset.
