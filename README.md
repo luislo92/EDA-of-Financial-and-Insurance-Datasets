@@ -11,23 +11,23 @@ Here is a brief explanation of each case and its category:
 
 ### Data Analysis
 
-EDA 1: Analyzing the stock price of the Goldman Sachs stock from 2009 to 2012 to identify anomalies. 
+- EDA 1: Analyzing the stock price of the Goldman Sachs stock from 2009 to 2012 to identify anomalies. 
 
 ### Feature Engineering
 
-EDA 3: Analyzing a dataset of credit card transactions to create new variables that help us identify the anomalies in the set.         
-EDA 4: Analyzing a dataset of HealthCare aggregated data to create new variables that help us identify anomalies in the set.
+- EDA 3: Analyzing a dataset of credit card transactions to create new variables that help us identify the anomalies in the set.         
+- EDA 4: Analyzing a dataset of HealthCare aggregated data to create new variables that help us identify anomalies in the set.
 
 ### Supervised
 
-EDA 2: Create a gains table with a logistic regression model to understand what is the lift and the impact of the model.
+- EDA 2: Create a gains table with a logistic regression model to understand what is the lift and the impact of the model.
 
 ### Unsupervised
 
-EDA 5: Using the modified HealthCare dataset with all the new variables, create clusters of observations and 
+- EDA 5: Using the modified HealthCare dataset with all the new variables, create clusters of observations and 
 identify the clusters that show the most obvious anomalies.
 
 ### Extras
 
-Word2Vec: Using word2vec grasp similairyt between a merchants to narrow down the categories.
-R&D Attrition: Side project done to analyze attrition in the R&D department of a mock dataset.
+- Word2Vec: Using word2vec grasp similairyt between a merchants to narrow down the categories.
+- R&D Attrition: Side project done to analyze attrition in the R&D department of a mock dataset.
