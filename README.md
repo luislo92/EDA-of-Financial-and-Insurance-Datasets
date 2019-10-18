@@ -1,10 +1,10 @@
 # EDA-of-Financial-and-Insurance-Datasets
 Ipny and HTML files EDA Case Studies
 
-This repository contains 5 case studies of financial and insurance data. Each case requires a process of 
+This repository contains several case studies of financial and insurance data. Each case requires a process of 
 exploratory data analysis to understand the dataset and a feature engineering process to modify the dataset 
 to make it ideal for modeling. The cases include problems in the data analysis, feature engineering, 
-supervised learning and unsupervised learning spectrum. However, all of the cases share a common 
+supervised learning and unsupervised learning spectrum. All of the cases share a common 
 goal: identify anomalies. 
 
 Here is a brief explanation of each case and its category:
