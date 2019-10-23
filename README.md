@@ -26,7 +26,7 @@ Here is a brief explanation of each case and its category:
 
 - EDA 5: Using the modified HealthCare dataset with all the new variables, create clusters of observations and 
 identify the clusters that show the most obvious anomalies.
--EDA 6: Using the modified Credit Card dataset and some new features, cluster observations using DBSCAN and MeanShift clustering techniques to identify anomalies in the dataset.
+- EDA 6: Using the modified Credit Card dataset and some new features, cluster observations using DBSCAN and MeanShift clustering techniques to identify anomalies in the dataset.
 
 ### Extras
 
