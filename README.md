@@ -18,15 +18,17 @@ Here is a brief explanation of each case and its category:
 - EDA 3: Analyzing a dataset of credit card transactions to create new variables that help us identify the anomalies in the set.         
 - EDA 4: Analyzing a dataset of HealthCare aggregated data to create new variables that help us identify anomalies in the set.
 
-### Supervised
+### Supervised Learning
 
 - EDA 2: Create a gains table with a logistic regression model to understand what is the lift and the impact of the model.
 
-### Unsupervised
+### Unsupervised Learning
 
 - EDA 5: Using the modified HealthCare dataset with all the new variables, create clusters of observations and 
 identify the clusters that show the most obvious anomalies.
 - EDA 6: Using the modified Credit Card dataset and some new features, cluster observations using DBSCAN and MeanShift clustering techniques to identify anomalies in the dataset.
+- EDA 7: Outlier detection using the autoencoder algorithm in the PyOD library. 
+- EDA 8: Outlier detection using the iForest algorithm in the PyOD library.
 
 ### Extras
 
