@@ -21,6 +21,9 @@ Here is a brief explanation of each case and its category:
 ### Supervised Learning
 
 - EDA 2: Create a gains table with a logistic regression model to understand what is the lift and the impact of the model.
+- EDA 9: Build supervised learning models (random forest and gradient boosting) using the H2O library.
+- EDA 10: Build supervised learning models (GLM and AutoML) using the H2O library and benchmark models to select the best model.
+- EDA 11: Using SHAP Values to understand the results of an algorithm.
 
 ### Unsupervised Learning
 
